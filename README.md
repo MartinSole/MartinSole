@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working through the web accessibility deep dive course by Deque
 - - 💬 Learning progress:
-  - (https://frontendmasters.com/u/MartinSole/)[Front end masters]
-  - (https://teamtreehouse.com/profiles/martinsole)[Treehouse]
+  - [Front end masters](https://frontendmasters.com/u/MartinSole/)
+  - [Treehouse](https://teamtreehouse.com/profiles/martinsole)
