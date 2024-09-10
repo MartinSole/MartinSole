@@ -3,8 +3,8 @@
 
 I'm a front dev keen on learning new technologies and exploring the world of web accessibility
 
-![<MartinSole>'s Stats](https://github-readme-stats.vercel.app/api?username=<MartinSole>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
+![<MartinSole>'s Stats](https://github-readme-stats.vercel.app/api?username=<MartinSole>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 **MartinSole/MartinSole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
